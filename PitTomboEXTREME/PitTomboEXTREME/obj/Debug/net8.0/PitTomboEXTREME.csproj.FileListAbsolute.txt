@@ -1,0 +1,14 @@
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\bin\Debug\net8.0\PitTomboEXTREME.exe
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\bin\Debug\net8.0\PitTomboEXTREME.deps.json
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\bin\Debug\net8.0\PitTomboEXTREME.runtimeconfig.json
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\bin\Debug\net8.0\PitTomboEXTREME.dll
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\bin\Debug\net8.0\PitTomboEXTREME.pdb
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\PitTomboEXTREME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\PitTomboEXTREME.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\PitTomboEXTREME.AssemblyInfo.cs
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\PitTomboEXTREME.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\PitTomboEXTREME.dll
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\refint\PitTomboEXTREME.dll
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\PitTomboEXTREME.pdb
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\PitTomboEXTREME.genruntimeconfig.cache
+C:\Users\julio\source\repos\PitTomboEXTREME\PitTomboEXTREME\obj\Debug\net8.0\ref\PitTomboEXTREME.dll
